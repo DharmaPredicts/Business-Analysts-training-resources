@@ -1,0 +1,15 @@
+### 🧠 BA vs Developer Mindset
+
+| **Aspect**               | **Business Analyst Mindset**                                | **Developer Mindset**                                    |
+|--------------------------|--------------------------------------------------------------|-----------------------------------------------------------|
+| **Focus**                | *What* the business needs and *why*                         | *How* to build the solution technically                  |
+| **Primary Goal**         | Define clear, valuable requirements aligned with business goals | Implement efficient, maintainable, and scalable code     |
+| **Language of Communication** | Business language (user, customer, stakeholder-centric) | Technical language (APIs, frameworks, architecture)      |
+| **Success Criteria**     | Stakeholder satisfaction, business value delivered          | Working, bug-free software that meets requirements       |
+| **Engagement Style**     | Collaborates with stakeholders, asks “why?”                 | Collaborates with engineers, asks “how?”                 |
+| **Approach to Problems** | Clarifies the problem before proposing solutions            | Solves the problem once requirements are defined         |
+| **Tools Commonly Used**  | Jira, Confluence, Lucidchart, MS Word/Excel                 | VS Code, Git, Postman, Databases, IDEs                   |
+| **Output Examples**      | BRD, FRD, user stories, process diagrams                    | Code, APIs, database scripts, deployments                |
+
+> 🔍 **Summary**:  
+A **BA bridges the gap between business needs and technical execution**, ensuring that solutions solve the right problems. A **Developer** focuses on building those solutions efficiently and accurately based on defined requirements.
