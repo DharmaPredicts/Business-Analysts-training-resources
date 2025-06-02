@@ -7,7 +7,7 @@
 ## 📘 Topics
 
 ### 1️⃣ Introduction to Business Analysis
-- [Role of a Business Analyst](https://www.iiba.org/professional-development/career-centre/business-analysis-career-path/)
+- [Role of a Business Analyst](https://trailhead.salesforce.com/content/learn/modules/salesforce-business-analyst-quick-look/learn-about-the-salesforce-business-analyst-rol)
 - BA vs Developer Mindset *(internal document or blog link here)*
 - BA Lifecycle (BABOK Overview):  
   - [BABOK Summary PDF](https://www.iiba.org/media/2116/babok-v3-table-of-contents.pdf)
