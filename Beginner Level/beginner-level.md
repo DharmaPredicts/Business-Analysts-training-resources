@@ -6,7 +6,7 @@
 
 ## 📘 Topics
 
-### 📌 Introduction to Business Analysis
+### 1️⃣ Introduction to Business Analysis
 - [Role of a Business Analyst](https://www.iiba.org/professional-development/career-centre/business-analysis-career-path/)
 - BA vs Developer Mindset *(internal document or blog link here)*
 - BA Lifecycle (BABOK Overview):  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🤝 Stakeholder Management & Communication
+### 2️⃣ Stakeholder Management & Communication
 - [Identifying Stakeholders](https://www.projectmanagementdocs.com/template/project-initiation/stakeholder-analysis/)
 - Elicitation Techniques:
   - [Interview Techniques](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/1473/Seven-Elicitation-Techniques.aspx)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧾 Requirements Engineering (Basics)
+### 3️⃣ Requirements Engineering (Basics)
 - Types of Requirements:
   - Business, Stakeholder, Solution, Functional/Non-functional  
   *(link to PDF or internal Confluence page here)*
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠️ Documentation & Tools Practice (Introductory)
+### 4️⃣ Documentation & Tools Practice (Introductory)
 - Sample Documents:
   - [BRD Template (Google Doc)](https://docs.google.com/document/d/BRD-template-link)
   - [FRD Template (Google Doc)](https://docs.google.com/document/d/FRD-template-link)
