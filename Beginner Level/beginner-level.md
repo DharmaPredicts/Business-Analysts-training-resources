@@ -9,8 +9,8 @@
 ### 1️⃣ Introduction to Business Analysis
 - [Role of a Business Analyst](https://trailhead.salesforce.com/content/learn/modules/salesforce-business-analyst-quick-look/learn-about-the-salesforce-business-analyst-rol)
 - [BA vs Developer Mindset](https://github.com/DharmaPredicts/Business-Analysts-training-resources/blob/main/Beginner%20Level/BA%20vs%20Developer%20Mindset.png)
-- BA Lifecycle (BABOK Overview):  
-  - [BABOK GuideV2.0 PDF](https://www.iiba.org/media/2116/babok-v3-table-of-contents.pdf)
+- BA Lifecycle (Business Analysts Book of Knowledge):  
+  - [BABOK GuideV2.0 PDF](https://github.com/DharmaPredicts/Business-Analysts-training-resources/blob/main/Babok%20Guide%20V2.0.pdf?short_path=ac60071)
 - Tool Overview:
   - [Jira Overview](https://www.atlassian.com/software/jira/guides)
   - [Confluence Basics](https://www.atlassian.com/software/confluence/guides)
